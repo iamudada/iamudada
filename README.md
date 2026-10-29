@@ -1,60 +1,70 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=iamudada&fontSize=72&fontColor=ffffff&desc=一颗韭菜，正在学习和折腾中。&descAlignY=62&animation=fadeIn" alt="iamudada" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;iamudada;build+small+tools.+automate+things.;learning+by+shipping.&font=Fira+Code&center=true&width=600&height=60&color=00ff41&pause=1000&size=22" alt="typing" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;iamudada;build+small+tools.+automate+things.;learning+by+shipping.&font=Fira+Code&center=true&width=650&height=60&color=58A6FF&pause=1000&size=26" alt="typing" />
+</p>
 
-`一颗韭菜，正在学习和折腾中。`
+<p align="center">
+  <a href="https://github.com/iamudada"><img src="https://img.shields.io/github/followers/iamudada?style=for-the-badge&color=58A6FF" alt="followers" /></a>
+  <a href="https://github.com/iamudada/tiny-tools"><img src="https://img.shields.io/github/stars/iamudada/tiny-tools?style=for-the-badge&color=FF007F" alt="tiny-tools stars" /></a>
+</p>
 
-</div>
+## ⚡ About Me
+
+<p align="center">
+🌱 在学：小工具、自动化、AI 编程<br/>
+🔧 信条：把想法先跑起来，再慢慢改<br/>
+🚀 现在：从 0 开始搭主页，每天 1 个真实改进，再跑几个小项目
+</p>
 
 ```console
 $ whoami
 iamudada
-
-$ cat ./about.txt
-在学：小工具、自动化、AI 编程
-信条：喜欢把想法先跑起来，再慢慢改
-现在：从 0 开始搭主页，再跑几个小项目
+$ ./today --status
+learning by building · shipping every day
 ```
 
-```json
-{
-  "user": "iamudada",
-  "status": "learning by building",
-  "learning": ["小工具", "自动化", "AI 编程"],
-  "principle": "先跑起来，再慢慢改",
-  "now": "从 0 开始搭主页，再跑几个小项目"
-}
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,git,github" height="52" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## 📊 Stats
+
+| | |
+| --- | --- |
+| <a href="https://github.com/iamudada"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamudada&theme=tokyonight" alt="iamudada's GitHub stats" /></a> | <a href="https://github.com/iamudada"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamudada&theme=tokyonight&hide_border=true" alt="streak stats" /></a> |
+| <a href="https://github.com/iamudada"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamudada&theme=tokyonight" alt="repos per language" /></a> | <a href="https://github.com/iamudada"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamudada&theme=tokyonight" alt="productive time" /></a> |
+
+## 🚀 Projects
+
+### [tiny-tools](https://github.com/iamudada/tiny-tools) ![stars](https://img.shields.io/github/stars/iamudada/tiny-tools)
+
+> 无依赖的 Python 小工具合集，每天 1 个真实改进。
+
+- **tidy.py** — 按扩展名整理文件夹，默认干跑，`--apply` 才移动
+- **dupfind.py** — 按 SHA-256 找重复文件，`--delete` 可删重
+
+```sh
+python3 tidy.py ~/Downloads --apply
+python3 dupfind.py ~/Downloads
 ```
 
-## $ ./stack --list
+## 🎯 Next Up
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- [ ] 再跑几个小工具，慢慢把主页填满
+- [ ] 把好用的小工具都收进 `tiny-tools`
 
-## $ ./stats
-
-| Stats | Repos per Language |
-| ----- | ------------------ |
-| <a href="https://github.com/iamudada"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamudada&theme=tokyonight" alt="iamudada's GitHub stats" /></a> | <a href="https://github.com/iamudada"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamudada&theme=tokyonight" alt="repos per language" /></a> |
-
-## $ ls ./projects
-
-```console
-$ ls ./projects
-tiny-tools/
-```
-
-- **[tiny-tools](https://github.com/iamudada/tiny-tools)** — 一个无依赖的 Python 小工具：按扩展名整理文件夹，默认只预览，加 `--apply` 才真正移动文件。 ![stars](https://img.shields.io/github/stars/iamudada/tiny-tools)
-
-## $ cat TODO.md
-
-```text
-- [ ] 再跑 1–2 个小项目，慢慢把主页填满
-- [ ] 把好用的小工具都收进 tiny-tools
-```
-
-```console
-$ echo "EOF"
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
+</p>
