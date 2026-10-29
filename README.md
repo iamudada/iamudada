@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=iamudada&fontSize=72&fontColor=ffffff&desc=一颗韭菜，正在学习和折腾中。&descAlignY=62&animation=fadeIn" alt="iamudada" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=iamudada&fontSize=72&fontColor=ffffff&desc=%E4%B8%80%E9%A2%97%E9%9F%AD%E8%8F%9C%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%8A%98%E8%85%BE%E4%B8%AD%E3%80%82&descAlignY=62&animation=fadeIn" alt="iamudada" />
 </p>
 
 <p align="center">
