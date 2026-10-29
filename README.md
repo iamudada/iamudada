@@ -2,6 +2,10 @@
 
 <p align="center">一颗韭菜，正在学习和折腾中。</p>
 
+<p align="center">
+  <a href="https://github.com/iamudada"><img src="https://img.shields.io/github/followers/iamudada?style=for-the-badge" alt="followers" /></a>
+</p>
+
 ## 🙋 About Me
 
 - 🌱 在学：小工具、自动化、AI 编程
@@ -20,17 +24,13 @@
 
 ## 📊 GitHub Stats
 
-| Stats | Top Languages |
-| ----- | ------------- |
-| <a href="https://github.com/iamudada"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamudada&show_icons=true&include_all_commits=true&hide_border=true" alt="iamudada's GitHub stats" /></a> | <a href="https://github.com/iamudada"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamudada&layout=compact&hide_border=true" alt="iamudada's top languages" /></a> |
+| Stats | Repos per Language |
+| ----- | ------------------ |
+| <a href="https://github.com/iamudada"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamudada&theme=default" alt="iamudada's GitHub stats" /></a> | <a href="https://github.com/iamudada"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamudada&theme=default" alt="repos per language" /></a> |
 
 ## 📌 Projects
 
-<a href="https://github.com/iamudada/tiny-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamudada&repo=tiny-tools&hide_border=true" alt="tiny-tools" />
-</a>
-
-- **[tiny-tools](https://github.com/iamudada/tiny-tools)** — 一个无依赖的 Python 小工具：按扩展名整理文件夹，默认只预览，加 `--apply` 才真正移动文件。
+- **[tiny-tools](https://github.com/iamudada/tiny-tools)** — 一个无依赖的 Python 小工具：按扩展名整理文件夹，默认只预览，加 `--apply` 才真正移动文件。 ![stars](https://img.shields.io/github/stars/iamudada/tiny-tools)
 
 ## 🎯 Next Up
 
