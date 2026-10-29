@@ -77,6 +77,12 @@ python3 tidy.py ~/Downloads --apply
 python3 dupfind.py ~/Downloads
 ```
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamudada/iamudada/output/github-snake-dark.svg" alt="contribution snake" />
+</p>
+
 ## 🎯 Next Up
 
 - [ ] 再跑几个小工具，慢慢把主页填满
